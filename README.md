@@ -6,7 +6,7 @@
 https://gifeconomy.com/artistsinfo?
 ```
 
-```javascript
+```json
 [
   {
     "user": "justin@place.com",
@@ -38,7 +38,7 @@ Please display nickname not email, or if nickname is defaulting to email, just f
 https://gifeconomy.com/listsales?user=ithkuil@gmail.com
 ```
 
-```javascript
+```json
 [
   {
     "price": "0",
@@ -92,8 +92,8 @@ Also please display nickname not email, or if nickname is defaulting to email, j
 
 If there is a bid it will be under `{obj}.HighBid`
 
-```javascript
-[{"appID":351872851,"assetid":"325367103","url":"https://gifeconj.mypinata.cloud/ipfs/bafybeibaeexk6b4azge5p643epcuwxkvyeyl5exkb7mxygrq5ritvg24h4","creator":"RMONE54GR6CYOJREKZQNFCZAUGJHSPBUJNFRBTXS4NKNQL3NJQIHVCS53M","title":"Jason test auction nick 2","clawback":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HFKQ","unitname":"JLT5119","total":"2","amount":"1","description":"","opening":"100000","duration":"0.1","user":"ithkuil@place.com","sub":"ithkuil@place.com","addresses":["MRHLCEX2WSIW5ATDJEPDVOTXRP23BQJFN7FP6RXAJP2YJSPKOKOLLALUEI","RMONE54GR6CYOJREKZQNFCZAUGJHSPBUJNFRBTXS4NKNQL3NJQIHVCS53M","7KFKY7ZKGERQZF5WI7MTUFKKOC25EQCHFDTJURDLWS56Y77ZNKWAI4RA2I"],"mimetype":"image/png","nickname":"runvncnick","AssetID":325367103,"Duration":360,"Build":"59.0906_0136PM","Opening":100000,"dbg":"create\r","Escrow":"HJX5WJQGHJQHXEFF3XKRAO7JS6PSTYJYM5LDQILMTDJKWGGAUIAA3KPLY4","Creator":"RMONE54GR6CYOJREKZQNFCZAUGJHSPBUJNFRBTXS4NKNQL3NJQIHVCS53M","Seller":"RMONE54GR6CYOJREKZQNFCZAUGJHSPBUJNFRBTXS4NKNQL3NJQIHVCS53M","initialized":1}][
+```json
+[
   {
     "appID": 351872851,
     "assetid": "325367103",
