@@ -34,6 +34,14 @@ Please display nickname not email, or if nickname is defaulting to email, just f
 
 ## List Sales
 
+## By Creator
+
+```sh
+https://gifeconomy.com/listsales?creator=RMONE54GR6CYOJREKZQNFCZAUGJHSPBUJNFRBTXS4NKNQL3NJQIHVCS53M
+```
+
+## By Seller
+
 ```sh
 https://gifeconomy.com/listsales?user=ithkuil@gmail.com
 ```
